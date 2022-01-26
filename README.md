@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gustavo Germano
+- 👀 I’m interested in being a front-end developer
+- 🌱 I’m currently learning web systems development
+- 💞️ I can understand Portuguese and a litle English (I still studying English)
+- 📫 You can send me an email: gustavohenriquegermano@gmail.com

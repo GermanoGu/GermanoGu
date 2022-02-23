@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gustavo Germano
+- 🎓 Graduated in Information Technology management
 - 👀 I’m interested in being a front-end developer
 - 🌱 I’m currently learning web systems development
 - 💞️ I can understand Portuguese and a litle English (I still studying English)

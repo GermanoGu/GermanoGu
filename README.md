@@ -10,4 +10,4 @@ ENGLISH:
 - 🎓 Graduated in Information Technology Management
 - 👀 I’m interested in being a front-end developer
 - 🌱 I’m currently learning web systems development
-- 💞️ I can understand Portuguese and a litle English (I still studying English)
+- 💞️ I can understand Portuguese and a litle English (I'm still studying English)
